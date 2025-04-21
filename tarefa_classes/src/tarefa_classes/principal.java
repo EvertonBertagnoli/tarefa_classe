@@ -12,7 +12,7 @@ public class principal {
 		objeto.setDescricao("Objeto feito de liga metalica (mistura de dois materiais, carbono e ferro)");
 		objeto.setIdade(135);
 
-		//output para da chama e mostrar no programa!
+		//output para da chamada e mostrar no programa!
 		System.out.println(objeto.getNome());
 		System.out.println(objeto.getDescricao());
 		System.out.println(objeto.getIdade());
